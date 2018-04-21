@@ -1,6 +1,6 @@
 # SendNextMonday
 
-Step 1: Enable the Developer toolbar in the Outlook Ribbon
+## Step 1: Enable the Developer toolbar in the Outlook Ribbon
 
 To enable it for Outlook 2010 and Outlook 2013:
 
@@ -11,13 +11,14 @@ To enable it for Outlook 2010 and Outlook 2013:
 
 Once you have enabled the Developer tab, select the tab and press the Macros button. This will launch a dialog with all your macros to choose from. Select the one you want and then press the Run button to execute it.
 
-Step 2: Copy the code into a new Macro
+## Step 2: Copy the code into a new Macro
 
 Go to the Developer Tab and open the Macros editor
 Get the code from "SendEmailNextMonday.bas" into the new Macro 
 Save it. You can rename it whatever you want.
 
-Step 3:
+## Step 3: Add a Ribbon button to run the macro
+
 In Outlook 2010 and Outlook 2013, things have been made a lot easier as it allows you to manually customize the Ribbon as well.
 
     Open the item window where you’d like to add the macro button to.
